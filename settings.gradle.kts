@@ -1,0 +1,1 @@
+rootProject.name = "backend_ktor_tdd_test"
